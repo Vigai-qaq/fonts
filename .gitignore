@@ -1,0 +1,14 @@
+# 本地状态文件（记录 GitHub 用户名，不需要上传）
+.ghuser
+
+# 本地工具脚本（GBK 编码，进了 git 会被 CRLF 转换搞乱，且与字体分发无关）
+*.bat
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
